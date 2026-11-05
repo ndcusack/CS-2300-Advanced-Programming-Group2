@@ -1,3 +1,4 @@
+//ndc comments
 public class rgb_to_hex {
     public static void main(String[] args) {
         int r = 255;
